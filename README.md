@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongGunHo05&show_icons=true&theme=noctis_minimus)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongGunHo05&layout=compact)](https://github.com/HongGunHo05/github-readme-stats)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=4C6793&height=150&section=footer)
