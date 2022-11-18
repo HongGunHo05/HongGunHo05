@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHongGunHo05%2FHongGunHo05&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div style = "display = flex">
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=booklike112)](https://solved.ac/booklike112)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=booklike112)](https://solved.ac/booklike112) <img src="http://mazandi.herokuapp.com/api?handle=booklike112&theme=dark"/>
 
-<img src="http://mazandi.herokuapp.com/api?handle=booklike112&theme=dark"/>
- </div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongGunHo05&show_icons=true&theme=noctis_minimus)
 
