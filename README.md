@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://capsule-render.vercel.app/api?
+<script src = "https://capsule-render.vercel.app/api?"></script>
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=59C1BD&height=200&section=header&text=Welcome!&fontSize=60)
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongGunHo05&show_icons=true&theme=noctis_minimus)
