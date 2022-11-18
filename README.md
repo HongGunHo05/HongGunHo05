@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://capsule-render.vercel.app/api?
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=59C1BD&height=300&section=header&text=Welcome!!&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=59C1BD&height=200&section=header&text=Welcome!&fontSize=60)
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongGunHo05&show_icons=true&theme=noctis_minimus)
 
