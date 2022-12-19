@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongGunHo05&show_icons=true&theme=noctis_minimus)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongGunHo05&layout=compact)](https://github.com/HongGunHo05/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongGunHo05&layout=compact)](https://github.com/HongGunHo05/github-readme-stats)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=booklike112)](https://solved.ac/booklike112) <img src="http://mazandi.herokuapp.com/api?handle=booklike112&theme=dark"/>
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=booklike112)](https://solved.ac/booklike112) <img src="http://mazandi.herokuapp.com/api?handle=booklike112&theme=dark"/> -->
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HongGunHo05&theme=react-dark&hide_border=true) -->
 
